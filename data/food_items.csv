@@ -1,0 +1,7 @@
+Food_ID,Food_Name,Category,Calories,Protein,Carbs,Fat,Fiber,Suitable_For
+1,Apple,Fruits,95,0.5,25,0.3,4.4,Vegan
+2,Chicken,Meat,165,31.0,0,3.6,0.0,Non-Vegan
+3,Broccoli,Vegetables,55,3.7,11,0.6,5.1,Vegan
+4,Almonds,Nuts & Seeds,160,6.0,6,14.0,3.5,Vegan
+5,Salmon,Fish,208,20.0,0,13.0,0.0,Non-Vegan
+6,Lentils,Legumes,230,18.0,40,0.8,15.6,Vegan
